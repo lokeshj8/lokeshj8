@@ -14,7 +14,7 @@ I aim to work on innovative projects that create impact using technology.
 🔭 Currently exploring:  
 ☁️ **AWS**, 🌱 **Spring Boot**, 🌐 **Cloud Computing**
 
-📄 [My Resume](https://your-resume-link.com) <!-- Replace this with your actual resume link -->
+📄 [My Resume](https://drive.google.com/file/d/1xoGWnP1zfc3q_EEHiVlGegCcG4kUzKJe/view?usp=drive_link) <!-- Replace this with your actual resume link -->
 
 ---
 
